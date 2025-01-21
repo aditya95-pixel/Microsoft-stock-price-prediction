@@ -1,4 +1,4 @@
-# Microsoft Stock Price Prediction
+# Microsoft Stock Price Prediction (Time series forecasting problem)
 This Python script utilizes LSTM (Long Short-Term Memory) neural networks to predict the closing prices of Microsoft stock based on historical data. Below is an overview of how the script works:
 
 ## 1. Data Loading and Visualization
